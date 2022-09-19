@@ -1,5 +1,6 @@
 {
   "name": "react-rmdb",
+  "homepage": "http://datamovies.cristianboaventura.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
